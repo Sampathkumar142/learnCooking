@@ -23,7 +23,7 @@ This is a web based application developed  to learn cooking the various dishes  
 -Our Health Bot that clear your doubts about Cooking
 
 
-Screeen Shots
+## Screeen Shots
 Home page:
 ![image](https://github.com/Sampathkumar142/learnCooking/assets/101878489/8d02d5f0-cdf1-4016-852c-5d1c2bd36d32)
 
