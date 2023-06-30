@@ -1,4 +1,4 @@
-#  🌟 Learn Cooking 🌟
+###  🌟 Learn Cooking 🌟
 
 This is a web based application developed  to learn cooking the various dishes  tastly and healthly at your home.
 
@@ -7,7 +7,7 @@ This is a web based application developed  to learn cooking the various dishes  
 *Project Link* --->  https://agreeable-sand-0a8816d00.3.azurestaticapps.net/    project demo video link ---> https://youtu.be/2T469x7btTk
 
 
-##Azure Technologies used for this project
+## Azure Technologies used for this project
 
 * Static web apps
 * Health Bot
