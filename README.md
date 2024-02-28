@@ -4,7 +4,7 @@ This is a web based application developed  to learn cooking the various dishes  
 
 ### This is a web based   application to learn how to prepare and cook healthy dishes at home and it helps to the beginners who doesn’t  know how to cook  has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft ,Future Skills Prime , Quess , Github and EY
 
-*Project Link* --->  https://agreeable-sand-0a8816d00.3.azurestaticapps.net/    project demo video link ---> https://youtu.be/2T469x7btTk
+*Project Link* --->  https://agreeable-sand-0a8816d00.3.azurestaticapps.net/    
 
 
 ## Azure Technologies used for this project
